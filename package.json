@@ -1,0 +1,29 @@
+{
+  "name": "twomatch",
+  "version": "1.0.3",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "sass": "^1.62.1",
+    "vite": "^4.3.6",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-static-copy": "^0.15.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "swiper": "^9.3.2"
+  }
+}
